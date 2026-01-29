@@ -80,5 +80,4 @@ This project is intended strictly for educational purposes
 👤 Author
 
 Himanshu Thakkar
-
 Jash Vakharia
